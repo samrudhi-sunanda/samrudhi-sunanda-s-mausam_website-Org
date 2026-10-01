@@ -1,0 +1,6 @@
+{
+  "name": "Mausam - Atmospheric Telemetry & Intelligence",
+  "description": "Spatial atmospheric telemetry and weather intelligence platform featuring a real-time kinetic wind dial, active alerts hub, adaptive bento cards, and Gemini AeroCopilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
