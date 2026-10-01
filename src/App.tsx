@@ -267,7 +267,7 @@ export default function App() {
             </div>
             <div className="text-center font-mono">
               <p className="text-sm font-bold text-slate-200">Ingesting Open-Meteo Telemetry Stream...</p>
-              <p className="text-xs text-slate-400 mt-1">Calibrating Aakaash360 weights for {activePersona}</p>
+              <p className="text-xs text-slate-400 mt-1">Calibrating Mausam weights for {activePersona}</p>
             </div>
           </div>
         )}
@@ -431,7 +431,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Compass className="w-4 h-4 text-cyan-400" />
-            <span className="font-semibold text-slate-200">Aakaash360 Intelligence Platform</span>
+            <span className="font-semibold text-slate-200">Mausam Intelligence Platform</span>
             <span>— 28 Persona Routing Matrix & Living Bento</span>
           </div>
 
